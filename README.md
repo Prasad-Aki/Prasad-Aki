@@ -33,7 +33,6 @@ Designed scalable REST APIs
 
 Tech: React • Node.js • Express • MongoDB
 
-👉 https://github.com/your-username/linkedin-clone
 
 📚 StudyHub Notes Platform -
 Created a platform to store and manage study notes
@@ -42,7 +41,6 @@ Focused on clean UI and efficient data flow
 
 Tech: React • REST APIs
 
-👉 https://github.com/your-username/studyhub
 
 🚀 What I'm Working On
 

@@ -1,16 +1,56 @@
-## Hi there 👋
+👋 Hi, I'm Prasad Akiwate
 
-<!--
-**Prasad-Aki/Prasad-Aki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack MERN Developer | Building scalable web applications | DSA Focused
 
-Here are some ideas to get you started:
+💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I build full-stack applications using MERN 
+🧠 Strong focus on Data Structures & Algorithms
+⚙️ Interested in backend design, APIs, and scalable systems
+🎯 Goal: Become a high-impact Software Engineer
+
+🛠️ Tech Stack
+
+Frontend:
+React.js • JavaScript (ES6+) • HTML5 • CSS3
+
+Backend:
+Node.js • Express.js
+
+Database:
+MongoDB
+
+Tools:
+Git • GitHub • Postman • VS Code
+
+📌 Featured Projects
+
+🔗 LinkedIn Clone (MERN)
+Built a full-stack social networking platform
+Implemented JWT authentication & protected routes
+Developed real-time features (likes, comments, connections)
+Designed scalable REST APIs
+
+Tech: React • Node.js • Express • MongoDB
+
+👉 https://github.com/your-username/linkedin-clone
+
+📚 StudyHub Notes Platform
+Created a platform to store and manage study notes
+Integrated APIs for seamless data handling
+Focused on clean UI and efficient data flow
+
+Tech: React • REST APIs
+
+👉 https://github.com/your-username/studyhub
+
+🚀 What I'm Working On
+
+Improving backend architecture & API design
+Practicing DSA daily (LeetCode / GFG)
+Building production-level MERN projects
+
+🤝 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/prasad-akiwate-621113375
+📧 Email: prasadakiwate2006@gmail.com

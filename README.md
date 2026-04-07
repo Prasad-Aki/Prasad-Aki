@@ -26,6 +26,7 @@ Git • GitHub • Postman • VS Code
 📌 Featured Projects
 
 🔗 LinkedIn Clone (MERN)
+
 Built a full-stack social networking platform
 Implemented JWT authentication & protected routes
 Developed real-time features (likes, comments, connections)
@@ -36,6 +37,7 @@ Tech: React • Node.js • Express • MongoDB
 👉 https://github.com/your-username/linkedin-clone
 
 📚 StudyHub Notes Platform
+
 Created a platform to store and manage study notes
 Integrated APIs for seamless data handling
 Focused on clean UI and efficient data flow

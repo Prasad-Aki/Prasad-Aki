@@ -1,54 +1,82 @@
-👋 Hi, I'm Prasad Akiwate
+<h1 align="center">Prasad Akiwate</h1>
+<h3 align="center">FULL-STACK DEVELOPER</h3>
 
-🚀 Full-Stack MERN Developer | Building scalable web applications | DSA Focused
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DSA-Focused-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open-To%20Work-orange?style=for-the-badge">
+</p>
 
-💫 About Me
+---
 
-💻 I build full-stack applications using MERN 
-🧠 Strong focus on Data Structures & Algorithms
-⚙️ Interested in backend design, APIs, and scalable systems
-🎯 Goal: Become a high-impact Software Engineer
+### 📫 Connect With Me
 
-🛠️ Tech Stack
+- LinkedIn: linkedin.com/in/prasad-akiwate
+- Email: prasadakiwate2006@gmail.com
+- GitHub: github.com/Prasad-Aki
 
-Frontend:
-React.js • JavaScript (ES6+) • HTML5 • CSS3
+---
 
-Backend:
-Node.js • Express.js
+## 🚀 Tech Stack
 
-Database:
-MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,git,github,vscode" />
+</p>
 
-Tools:
-Git • GitHub • Postman • VS Code
+---
 
-📌 Featured Projects
+## 📊 GitHub Stats
 
-🔗 LinkedIn Clone (MERN) - 
-Built a full-stack social networking platform
-Implemented JWT authentication & protected routes
-Developed real-time features (likes, comments, connections)
-Designed scalable REST APIs
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prasad-Aki&show_icons=true&theme=tokyonight" />
+</p>
 
-Tech: React • Node.js • Express • MongoDB
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad-Aki&theme=tokyonight" />
+</p>
 
+---
 
-📚 StudyHub Notes Platform -
-Created a platform to store and manage study notes
-Integrated APIs for seamless data handling
-Focused on clean UI and efficient data flow
+## 🌟 Featured Projects
 
-Tech: React • REST APIs
+### 🔹 AI Website Builder
+Generate websites using AI-powered prompts
 
+**Tech:** MERN Stack, Gemini API
 
-🚀 What I'm Working On
+---
 
-Improving backend architecture & API design
-Practicing DSA daily (LeetCode / GFG)
-Building production-level MERN projects
+### 🔹 LinkedIn Clone
+Full-stack social networking platform with authentication
 
-🤝 Connect With Me
+**Tech:** React, Node.js, Express, MongoDB
 
-💼 LinkedIn: www.linkedin.com/in/prasad-akiwate-621113375
-📧 Email: prasadakiwate2006@gmail.com
+---
+
+### 🔹 StudyHub Notes
+Platform for storing and managing study notes
+
+**Tech:** React, REST APIs
+
+---
+
+### 🔹 Portfolio Website
+Personal developer portfolio
+
+**Tech:** React, CSS
+
+---
+
+## 🎯 Current Goal
+
+Become a Software Engineer focused on:
+
+- Full Stack Development
+- Backend Engineering
+- AI Applications
+- Data Structures & Algorithms
+- System Design
+
+---
+
+⭐ Building projects, solving DSA problems, and learning every day.

@@ -11,9 +11,9 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/prasad-akiwate
+- LinkedIn: www.linkedin.com/in/prasad-akiwate-621113375
 - Email: prasadakiwate2006@gmail.com
-- GitHub: github.com/Prasad-Aki
+- GitHub: https://github.com/Prasad-Aki
 
 ---
 
